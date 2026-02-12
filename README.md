@@ -1,4 +1,5 @@
 ### Fairfax-County-Landcover-Change-2020-2025
+
 # Overview:
 This project quantifies land cover change in Fairfax County, Virginia between 2020 and 2025 using Sentinel-2 L2A multispectral imagery. This analysis focuses on decline in forest landcover and increase in urban expansion using the Normalized Difference Built-up Index (NDBI) and supervised classification aligned with Andersons Classification Scheme (Level I). 
 The objective of this project was to evaluate how the expansion of impervious surfaces correspond with vegetation decline and assess the accuracy of an index based urban detection.
@@ -34,14 +35,14 @@ Imagery filtered to 10% cloud cover and was limited to the month of May-Aug to e
   * 2025 Overall Accuracy: 68% (Kappa = 0.55)
 The urban expansion was roughly the same amount of change per pixel as the forest loss, suggesting a direct land cover conversion.
 
-## Limitations:
+# Limitations:
 
 * Multi-date mosaics introduced radiometric variance.
 * Persistent clouds even when properly filtered impacted classification.
 * 20m resolution limited classification precision.
 * Additional training samples and 10m resolution may improve future accuracy.
 
-## Maps & Visuals:
+# Maps & Visuals:
 
 ### 2020 Land Cover Classification
 ![2020 Classification](images/LCNIR_20.png)
