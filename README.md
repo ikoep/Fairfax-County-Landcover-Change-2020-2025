@@ -47,7 +47,7 @@ The urban expansion was roughly the same amount of change per pixel as the fores
 ### 2020 Land Cover Classification
 ![2020 Classification](images/LCNIR_20.png)
 ### 2025 Land Cover Classification
-![2025 Classification](image/LCNIR_25.png)
+![2025 Classification](images/LCNIR_25.png)
 ### 2020-2025 Land Cover Classification
 ![2020-2025 Classification](images/LC_20-25.png)
 ### 2020-2025 NDBI Map
