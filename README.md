@@ -1,4 +1,4 @@
-### Fairfax-County-Landcover-Change-2020-2025
+# Fairfax-County-Landcover-Change-2020-2025
 
 # Overview:
 This project quantifies land cover change in Fairfax County, Virginia between 2020 and 2025 using Sentinel-2 L2A multispectral imagery. This analysis focuses on decline in forest landcover and increase in urban expansion using the Normalized Difference Built-up Index (NDBI) and supervised classification aligned with Andersons Classification Scheme (Level I). 
